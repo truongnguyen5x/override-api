@@ -1,0 +1,12 @@
+body {
+  min-height: unset;
+  padding: 20px;
+}
+
+.jsoneditor-menu {
+  background-color: #686868 !important;
+}
+
+.jsoneditor {
+  border-color: gray !important;
+}

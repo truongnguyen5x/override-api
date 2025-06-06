@@ -1,0 +1,17 @@
+.btnBox {
+  display: flex;
+  gap: 8px;
+}
+
+.wp {
+}
+
+.item {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.selected {
+  background-color: gray; /* Màu nền xám */
+}
